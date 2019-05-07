@@ -6,7 +6,9 @@ Utilizou-se a biblioteca PIL para python.
 
 # Especificidades de Execução
 Especificando a imagem a ser convertida: altere o valor da string foto_path na linha 11 para a foto desejada.
+
 Modificando a escala da imagem: Altere o valor da constante REDUX para dimensionar o tamanho da imagem final.
+
 Visualizando a imagem: É recomendado utilizar o notepad++, segure ctrl e rode a rodinha do mouse para trás.
 
 # Exemplos de Execução
